@@ -1,6 +1,7 @@
 # Hope-16-Conference-Workshop
 
-I will provide the files and links to files + the VM for the workshop sometime this week. 
+I will provide the files and links to files + the VM for the workshop sometime this week.
+<br>
 <br>I did in the meantime today create an impromptu workshop #2. Since, there was a lot of interest in linux systems programming after the workshop I created these basic exercises leading up to a process injection to get your feet wet on the subject.
 <br>Feel free to check it out.
 <br>
