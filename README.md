@@ -1,3 +1,3 @@
 # Hope-16-Conference-Workshop
 
-This is the VM you will need to download BEFORE the workshop. Download and test to get everything working BEFORE the workshop. There will be lots to cover and no time to waste so make sure you are ready to go BEFORE the workshop.
+I will provide the files and links to files + the VM for the workshop sometime this week. I did in the meantime today create an impromptu workshop #2. Feel free to check it out.
